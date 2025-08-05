@@ -16,6 +16,12 @@ The Databel Customer Churn Dashboard provides an in-depth look at customer reten
 ## Dataset Used
 <a href = "https://github.com/eleizjames-code/Customer-Churn-Dashboard-/raw/refs/heads/main/Customer%20Churn%20Dashboard%20-%20Databel.xlsx"> Customer Churn Dashboard </a>
 
+## Process
+1. Data Preparation: Opened the Excel file and manually cleaned data using formulas like PROPER, TRIM, etc.
+2. Column Creation: Added new columns directly in the worksheet using functions like SUMIFS, IFS, and IF for calculated fields.
+3. KPI & Pivot Setup: Created a separate sheet with Pivot Tables to summarize churn metrics.
+4. Dashboard Creation: Designed a dashboard using charts and pivot outputs to visualize key churn insights.
+
 ## Insights
 - **Churn Overview**:
   - The overall churn rate is 26.86%, translating to 1,796 churned customers out of 6,687 total.
