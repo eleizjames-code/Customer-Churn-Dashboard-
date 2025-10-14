@@ -26,8 +26,10 @@ The Databel Customer Churn Dashboard provides an in-depth look at customer reten
 - **Churn Overview**:
   - The overall churn rate is 26.86%, translating to 1,796 churned customers out of 6,687 total.
 - **Churn by Data Usage**:
-  - Customers consuming less than 5 GB of data have the highest churn rate (34.69%).
-  - Customers using 10+ GB are more likely to stay, with only 27.72% churning.
+  - Customers with an Unlimited Data Plan have a much higher churn rate compared to those without.
+  - Among unlimited users, light data consumers (<5 GB) churn the most at 34.69%, suggesting
+they may not feel they’re getting full value from their plan.
+  - Meanwhile, heavy users (10+ GB) have the lowest churn (27.72%), indicating greater satisfaction with the unlimited plan.
 - **Demographics**:
   - Seniors (38.22%) make up the largest group of churned customers.
   - Under 30s account for 23%, and others (24.71%) include all remaining age groups.
