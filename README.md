@@ -49,18 +49,13 @@ they may not feel they’re getting full value from their plan.
 The churn rate is moderately high at 26.86%, driven heavily by competition and poor engagement with older, low-data-usage customers. Seniors and users consuming less than 5 GB of data with unlimted plan are the most vulnerable to leaving. Competitive offers and better devices from rivals account for nearly half of all churn.
 
 ## Recommendations
-
 1. **Retain Low-Usage Customers**: Create targeted bundles for users consuming <5 GB, offering better value and flexibility.
-
 2. **Engage Senior Customers**:
     - Improve communication channels tailored for older demographics.
     - Simplify device and service options to increase accessibility and satisfaction.
-
 3. **Counter Competitor Offers**: Launch competitive pricing or exclusive loyalty deals.
-
 4. **Improve Service Touchpoints**:
     - Train support staff and frontline service reps to enhance customer experience (14.19% left due to attitude).
     - Monitor and improve device and network quality.
-
-5.**Geo-targeted Interventions**:
+5. **Geo-targeted Interventions**:
     - Investigate churn hotspots like California, Indiana, and NH and launch retention campaigns   in these regions.
