@@ -42,11 +42,11 @@ they may not feel they’re getting full value from their plan.
   - Highest customer count is in the 39–48 age group, but highest churn rates occur in older age brackets (59–78).
   - This indicates older users are more likely to leave, even though they are fewer in number.
 - **Geographic Trends**:
-  - California (75%), Indiana (66.67%), and New Hampshire (62.5%) have the highest churn rates.
-  - Lowest churn is seen in Idaho, North Dakota, Rhode Island (25%).
+  - Highest churn rates: California (75%), Indiana (67%), and New Hampshire (63%) — indicating possible service dissatisfaction or stronger competition.
+  - Lowest churn rates: Idaho, North Dakota, Rhode Island, and Wisconsin (25%) — suggesting better customer retention and satisfaction in these states.
 
 ## Conclusion
-The churn rate is moderately high at 26.86%, driven heavily by competition and poor engagement with older, low-data-usage customers. Seniors and users consuming less than 5 GB of data are the most vulnerable to leaving. Competitive offers and better devices from rivals account for nearly half of all churn.
+The churn rate is moderately high at 26.86%, driven heavily by competition and poor engagement with older, low-data-usage customers. Seniors and users consuming less than 5 GB of data with unlimted plan are the most vulnerable to leaving. Competitive offers and better devices from rivals account for nearly half of all churn.
 
 ## Recommendations
 1. **Retain Low-Usage Customers**: Create targeted bundles for users consuming <5 GB, offering better value and flexibility.
